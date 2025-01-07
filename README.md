@@ -101,15 +101,15 @@ Burnes' ERA and FIP decreased, and he became more effective at preventing hard c
 Explore the full project [here](https://jasonwee2024.github.io/Baseball_Analysis_Projects/Burnes%20Cutter/Burnes_pitchers.html).  
 
 ## Metrics Glossary
-FIP: Fielding Independent Pitching, which measures a pitcher's performance based on strikeouts, walks, and home runs.
+- **FIP**: Fielding Independent Pitching, which measures a pitcher's performance based on strikeouts, walks, and home runs.
 
-K/9: Strikeouts per nine innings, indicating a pitcher's ability to miss bats.
+- **K/9**: Strikeouts per nine innings, indicating a pitcher's ability to miss bats.
 
-BB/9: Walks per nine innings, measuring a pitcher's control.
+- **BB/9**: Walks per nine innings, measuring a pitcher's control.
 
-WHIP: Walks plus hits per inning pitched, which shows how effectively a pitcher prevents base runners.
+- **WHIP**: Walks plus hits per inning pitched, which shows how effectively a pitcher prevents base runners.
 
-Whiffs: Swinging strikes, showing how often batters miss a pitch.
+- **Whiffs**: Swinging strikes, showing how often batters miss a pitch.
 
 ## Feedback and Collaboration  
 I’m always looking to improve my skills and learn from others. If you have feedback on my methods or want to collaborate on a baseball analytics project, feel free to reach out!  
