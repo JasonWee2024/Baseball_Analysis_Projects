@@ -91,9 +91,13 @@ Explore the full project [here](https://jasonwee2024.github.io/Baseball_Analysis
 
 ## Metrics Glossary
 FIP: Fielding Independent Pitching, which measures a pitcher's performance based on strikeouts, walks, and home runs.
+
 K/9: Strikeouts per nine innings, indicating a pitcher's ability to miss bats.
+
 BB/9: Walks per nine innings, measuring a pitcher's control.
+
 WHIP: Walks plus hits per inning pitched, which shows how effectively a pitcher prevents base runners.
+
 Whiffs: Swinging strikes, showing how often batters miss a pitch.
 
 ## Feedback and Collaboration  
